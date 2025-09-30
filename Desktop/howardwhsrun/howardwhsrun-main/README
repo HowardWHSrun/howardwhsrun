@@ -2,6 +2,7 @@
 
 senior at swarthmore college studying engineering and applied mathematics.  
 research interests in computational neuroscience, biomedical engineering, and applied mathematics.  
+passionate about bridging theoretical models with real-world applications in neuroscience and biomedical engineering.  
 
 ---
 
@@ -9,6 +10,7 @@ research interests in computational neuroscience, biomedical engineering, and ap
 - developing pde-based models of t-cell dynamics in lymph node microenvironments  
 - building pipelines for 3d analysis of jaw and mouth motion in nonhuman primates for neuromechanics and brain–computer interfaces  
 - eeg analysis, emi data analytics, and neuromorphic hardware implementations  
+- exploring machine learning applications in computational biology and neuroscience  
 
 ---
 
@@ -21,6 +23,7 @@ research interests in computational neuroscience, biomedical engineering, and ap
 ![verilog](https://img.shields.io/badge/verilog-gray?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![html](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![r](https://img.shields.io/badge/r-276dc3?style=for-the-badge&logo=r&logoColor=white)
 
 **tools and frameworks**  
 ![pytorch](https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,6 +31,7 @@ research interests in computational neuroscience, biomedical engineering, and ap
 ![scipy](https://img.shields.io/badge/scipy-8caaff?style=for-the-badge&logo=scipy&logoColor=white)
 ![deeplabcut](https://img.shields.io/badge/deeplabcut-green?style=for-the-badge)
 ![sleap](https://img.shields.io/badge/sleap-blue?style=for-the-badge)
+![tensorflow](https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **workflow**  
 ![slurm](https://img.shields.io/badge/slurm-hpc-blue?style=for-the-badge)
